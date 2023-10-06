@@ -1,2 +1,0 @@
-matplotlib==3.7.2
-cartopy==0.21.1
